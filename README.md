@@ -1,5 +1,5 @@
-👋 Hi, I’m @simmiw
-👀 I’m interested in javascript & building frontend applications.  
+👋 Hi, I’m @simmiw \
+👀 I’m interested in javascript & building frontend applications. \  
 🌱 I’m currently learning React & Redux
 
 <!---
