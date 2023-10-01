@@ -1,5 +1,5 @@
 👋 Hi, I’m @simmiw \
-👀 I’m interested in JavaScript & building frontend applications. \
+👀 I’m interested in JavaScript & building frontend applications. 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
